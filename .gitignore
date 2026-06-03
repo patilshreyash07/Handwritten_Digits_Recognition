@@ -1,0 +1,22 @@
+# Data
+data/
+*.zip
+*.csv
+
+# Models (large files)
+models/*.pkl
+models/*.h5
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
